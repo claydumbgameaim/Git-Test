@@ -1,0 +1,189 @@
+﻿1 person , options on
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 100
+TOTAL BYTES SENT = 100
+Average RTT = 0.23 seconds.
+Throughput (recving) = 5 bytes per second.
+Throughput (sending) = 5 bytes per second.
+Loss = 0
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 102400
+TOTAL BYTES SENT = 102400
+Average RTT = 0.18 seconds.
+Throughput (recving) = 5690 bytes per second.
+Throughput (sending) = 5690 bytes per second.
+Loss = 0
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 409600
+TOTAL BYTES SENT = 409600
+Average RTT = 0.26 seconds.
+Throughput (recving) = 15755 bytes per second.
+Throughput (sending) = 15755 bytes per second.
+Loss = 0
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 819200
+TOTAL BYTES SENT = 819200
+Average RTT = 0.40 seconds.
+Throughput (recving) = 20481 bytes per second.
+Throughput (sending) = 20481 bytes per second.
+Loss = 0
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 1638400
+TOTAL BYTES SENT = 1638400
+Average RTT = 0.44 seconds.
+Throughput (recving) = 37237 bytes per second.
+Throughput (sending) = 37237 bytes per second.
+Loss = 0
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 3276800
+TOTAL BYTES SENT = 3276800
+Average RTT = 0.50 seconds.
+Throughput (recving) = 65537 bytes per second.
+Throughput (sending) = 65537 bytes per second.
+Loss = 0
+
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 6553600
+TOTAL BYTES SENT = 6553600
+Average RTT = 0.95 seconds.
+Throughput (recving) = 68986 bytes per second.
+Throughput (sending) = 68986 bytes per second.
+Loss = 0
+
+
+___________________________________________________________
+
+
+2 people, options off
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 1000
+TOTAL BYTES SENT = 1000
+Average RTT = 0.12 seconds.
+Throughput (recving) = 10 bytes per second.
+Throughput (sending) = 10 bytes per second.
+Loss = 0
+
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 102400
+TOTAL BYTES SENT = 102400
+Average RTT = 0.31 seconds.
+Throughput (recving) = 3304 bytes per second.
+Throughput (sending) = 3304 bytes per second.
+Loss = 0
+
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 409600
+TOTAL BYTES SENT = 409600
+Average RTT = 0.27 seconds.
+Throughput (recving) = 15171 bytes per second.
+Throughput (sending) = 15171 bytes per second.
+Loss = 0
+
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 819200
+TOTAL BYTES SENT = 819200
+Average RTT = 0.29 seconds.
+Throughput (recving) = 28249 bytes per second.
+Throughput (sending) = 28249 bytes per second.
+Loss = 0
+
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 1638400
+TOTAL BYTES SENT = 1638400
+Average RTT = 0.38 seconds.
+Throughput (recving) = 43117 bytes per second.
+Throughput (sending) = 43117 bytes per second.
+Loss = 0
+
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 3276800
+TOTAL BYTES SENT = 3276800
+Average RTT = 0.58 seconds.
+Throughput (recving) = 56498 bytes per second.
+Throughput (sending) = 56498 bytes per second.
+Loss = 0
+
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 6553600
+TOTAL BYTES SENT = 6553600
+Average RTT = 1.05 seconds.
+Throughput (recving) = 62416 bytes per second.
+Throughput (sending) = 62416 bytes per second.
+Loss = 0
+
+_____________________________________
+
+
+1 person, options off
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 100
+TOTAL BYTES SENT = 100
+Average RTT = 0.09 seconds.
+Throughput (recving) = 12 bytes per second.
+Throughput (sending) = 12 bytes per second.
+Loss = 0
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 102400
+TOTAL BYTES SENT = 102400
+Average RTT = 0.15 seconds.
+Throughput (recving) = 6828 bytes per second.
+Throughput (sending) = 6828 bytes per second.
+Loss = 0
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 409600
+TOTAL BYTES SENT = 409600
+Average RTT = 0.25 seconds.
+Throughput (recving) = 16385 bytes per second.
+Throughput (sending) = 16385 bytes per second.
+Loss = 0
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 819200
+TOTAL BYTES SENT = 819200
+Average RTT = 0.32 seconds.
+Throughput (recving) = 25601 bytes per second.
+Throughput (sending) = 25601 bytes per second.
+Loss = 0
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 1638400
+TOTAL BYTES SENT = 1638400
+Average RTT = 0.33 seconds.
+Throughput (recving) = 49649 bytes per second.
+Throughput (sending) = 49649 bytes per second.
+Loss = 0
+
+
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 3276800
+TOTAL BYTES SENT = 3276800
+Average RTT = 0.57 seconds.
+Throughput (recving) = 57489 bytes per second.
+Throughput (sending) = 57489 bytes per second.
+Loss = 0
+
+----- SUMMARY -----
+TOTAL BYTES RECV = 6553600
+TOTAL BYTES SENT = 6553600
+Average RTT = 0.93 seconds.
+Throughput (recving) = 70470 bytes per second.
+Throughput (sending) = 70470 bytes per second.
+Loss = 0

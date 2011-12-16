@@ -1,0 +1,34 @@
+1
+----- SUMMARY -----
+Average RTT = 0.00 seconds.
+Throughput (receiving) = 250 bytes per second.
+Throughput (sending) = 250 bytes per second.
+
+1024
+----- SUMMARY -----
+Average RTT = 0.01 seconds.
+Throughput (receiving) = 102400 bytes per second.
+Throughput (sending) = 102400 bytes per second.
+
+2048
+----- SUMMARY -----
+Average RTT = 0.02 seconds.
+Throughput (receiving) = 102400 bytes per second.
+Throughput (sending) = 102400 bytes per second.
+
+4096
+----- SUMMARY -----
+Average RTT = 0.04 seconds.
+Throughput (receiving) = 102400 bytes per second.
+Throughput (sending) = 102400 bytes per second.
+
+82192
+----- SUMMARY -----
+Average RTT = 0.03 seconds.
+Throughput (receiving) = 273067 bytes per second
+Throughput (sending) = 273067 bytes per second.
+
+----- SUMMARY -----
+Average RTT = 0.03 seconds.
+Throughput (receiving) = 533333 bytes per second.
+Throughput (sending) = 533333 bytes per second.
